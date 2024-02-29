@@ -1,7 +1,5 @@
-# React Firebase Super Chat
+React and Firebase Chat App
 
-A simple fullstack chat demo with React and Firebase. 
+Using Live Socket
 
-Watch on full [React Firebase Chat Tutorial](https://youtu.be/zQyrwxMPm88) on YouTube. 
-
-[Live demo](https://fireship-demos.web.app/)
+UPDATE: I have removed this project from hosting as the extensions got deprecated
